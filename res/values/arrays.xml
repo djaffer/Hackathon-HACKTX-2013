@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_building_name">
+        <item>@string/jester</item>
+        <item>@string/kinsolving</item>
+        <item>@string/littlefield</item>
+        <item>@string/sac</item>
+        <item>@string/sanjac</item>
+        <item>@string/union</item>
+    </string-array>
+    
+</resources>

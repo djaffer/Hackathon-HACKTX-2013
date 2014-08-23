@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hungry Horn</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_retaurant_details">Retaurant Details</string>
+
+    <!-- LIST OF BUILDINGS -->
+    <string name="jester">Jester</string>
+    <string name="kinsolving">Kinsolving</string>
+    <string name="littlefield">Littlefield</string>
+    <string name="sac">SAC</string>
+    <string name="sanjac">San Jacinto</string>
+    <string name="union">University Union</string>
+    <string name="title_activity_restaurant_list">List of Restaurants</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_restaurant_detail">Restaurant Details</string>
+
+</resources>

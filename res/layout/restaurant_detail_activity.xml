@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+    
+    <TextView
+        android:id="@+id/restaurant_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Restaurant name"
+        android:padding="5dp" />
+    
+    <TextView
+        android:id="@+id/restaurant_hours"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Restaurant hours"
+        android:padding="5dp" />
+    
+    <GridView
+        android:id="@+id/restaurant_menu"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:numColumns="3"
+        android:stretchMode="columnWidth" >
+    </GridView>
+
+</LinearLayout>
